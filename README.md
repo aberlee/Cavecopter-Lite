@@ -2,7 +2,7 @@
 Simple helicopter game created by C (Allegro 5)
 
 ### Description
-This game, Cavecopter Lite, is simple but addictive game. Guide the helicopter through the cave without hitting spikes or obstacles. hold space bar button to go up/ Release to go down.
+This game, Cavecopter Lite, is simple but addictive game. Guide the helicopter through the cave without hitting walls or obstacles. hold space bar button to go up/ Release to go down.
 
 ![Cavecopter Screenshot](http://i.imgur.com/mt47Wsf.png "Main menu")
 ![Cavecopter Screenshot](http://i.imgur.com/qGeW8dU.png "Gameplay")
